@@ -5,5 +5,5 @@
 
 # 🇳🇱 Welkom op Onze Juridische Pagina
 
-### [Privacybeleid]()
-### [Gebruiksvoorwaarden]()
+### [Privacybeleid](privacybeleid.md)
+### [Gebruiksvoorwaarden](gebruiksvoorwaarden.md)
