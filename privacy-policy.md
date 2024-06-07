@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: 7/June/2024_
+_Last updated: [Date]_
 
 Your privacy is important to us. This Privacy Policy explains how our Discord bot collects, uses, and protects information about users and servers.
 
@@ -15,6 +15,7 @@ The bot also collects:
 - Logs of all ban, warn, and mute data.
 - Logs of any and all changes made to a server, including server modifications, channel modifications, category modifications, role modifications, etc.
 - Logs of actions performed by users, such as modifying messages, deleting messages, adding/removing roles, changing nicknames, etc.
+- Information on whether a user has sent a message and the user ID for updating XP and level.
 
 ## 2. Purpose of Data Collection
 
@@ -23,6 +24,7 @@ The data collected is used for the following purposes:
 - To monitor the bot's functionality and ensure it is being used properly.
 - To maintain records in case of abuse and provide evidence for potential bans.
 - To track interactions with the bot to improve its performance and provide better service.
+- To update and manage user XP and levels.
 
 ## 3. Data Usage
 
