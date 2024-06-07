@@ -29,3 +29,4 @@ We may update these Terms from time to time. If we make significant changes, we 
 ## 5. Contact Us
 
 If you have any questions or concerns about these Terms, please contact us by opening a ticket in our support server.
+
