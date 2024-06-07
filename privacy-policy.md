@@ -1,6 +1,6 @@
 # Privacy Policy
 
-_Last updated: [Date]_
+_Last updated: 7/June/2024_
 
 Your privacy is important to us. This Privacy Policy explains how our Discord bot collects, uses, and protects information about users and servers.
 
