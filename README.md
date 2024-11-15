@@ -1,4 +1,4 @@
-This is the legal page for https://chaosbot.carrd.co.
+This is the legal page for [this Discord bot](<https://chaosbot.carrd.co>).
 
 # 🇬🇧 Welcome to Our Legal Page
 
